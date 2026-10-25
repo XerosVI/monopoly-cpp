@@ -1,1 +1,1 @@
-First playable version of the game I did in high school
+First playable version of the game I wrote in high school
